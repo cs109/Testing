@@ -1,3 +1,7 @@
+# test ignore
+test csv.csv
+test2 csv.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
