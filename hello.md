@@ -1,1 +1,1 @@
-How clever am I?
+How stupid am i?
